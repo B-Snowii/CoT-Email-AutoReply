@@ -1,4 +1,4 @@
-# 学术邮件AI引擎
+# CoT邮件自动回复引擎
 
 [![Language](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![语言](https://img.shields.io/badge/语言-中文-red)](README.zh-CN.md)
